@@ -1,0 +1,18 @@
+ <html>
+ <head>
+ <title>
+   BurritoStand
+ </title>
+ <link rel="icon" type="image/x-icon" href="Burrito.png">
+ <h1><center>BurritoStand</center>
+ </h1>
+ </head>
+ <body>
+ <center><a href="Offline_Download_Version.html" download>
+   <button>
+     Download Minecraft
+</button>
+ </a>
+ </center>
+ </body>
+ </html>
